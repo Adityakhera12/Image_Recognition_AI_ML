@@ -1,8 +1,4 @@
 **Project:AN AI THAT SEES**
-
-Project Description:
-This project guides participants through building an image recognition model in Python using deep learning. Over five days, students learn fundamental concepts and practical skills in image classification, culminating in a deployable, portfolio-ready toolkit showcasing their expertise in computer vision.
-
 What You Have to Do (Step-by-Step):
 Preprocess and Explore Your Dataset
 Download a free image dataset (e.g., MNIST, Cats vs. Dogs, CIFAR-10 from Kaggle); normalize, resize, and visualize sample images using Python and OpenCV.
